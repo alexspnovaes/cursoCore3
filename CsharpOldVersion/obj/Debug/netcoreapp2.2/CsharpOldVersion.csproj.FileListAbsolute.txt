@@ -1,0 +1,8 @@
+C:\Users\alexa\source\repos\CSharpClasses\CsharpOldVersion\bin\Debug\netcoreapp2.2\CsharpOldVersion.deps.json
+C:\Users\alexa\source\repos\CSharpClasses\CsharpOldVersion\bin\Debug\netcoreapp2.2\CsharpOldVersion.dll
+C:\Users\alexa\source\repos\CSharpClasses\CsharpOldVersion\bin\Debug\netcoreapp2.2\CsharpOldVersion.pdb
+C:\Users\alexa\source\repos\CSharpClasses\CsharpOldVersion\obj\Debug\netcoreapp2.2\CsharpOldVersion.csprojAssemblyReference.cache
+C:\Users\alexa\source\repos\CSharpClasses\CsharpOldVersion\obj\Debug\netcoreapp2.2\CsharpOldVersion.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\CSharpClasses\CsharpOldVersion\obj\Debug\netcoreapp2.2\CsharpOldVersion.AssemblyInfo.cs
+C:\Users\alexa\source\repos\CSharpClasses\CsharpOldVersion\obj\Debug\netcoreapp2.2\CsharpOldVersion.dll
+C:\Users\alexa\source\repos\CSharpClasses\CsharpOldVersion\obj\Debug\netcoreapp2.2\CsharpOldVersion.pdb
